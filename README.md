@@ -30,10 +30,6 @@
 
 ---
 
-## Contact
-
-- GitHub: [@ririxd](https://github.com/ririxd)
-
 <p align="center">
   <i>Thanks for stopping by.</i>
 </p>
