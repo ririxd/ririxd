@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm ririxd</h1>
 <p align="center">
-  <i>Building, learning, and shipping in monochrome.</i>
+  <i>Crafting modern, user-focused software with curiosity and care.</i>
 </p>
 
 <p align="center">
