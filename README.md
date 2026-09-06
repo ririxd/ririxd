@@ -16,16 +16,16 @@
 - I value simplicity, performance, and clarity.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" title="JavaScript" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" alt="CSS3" title="CSS3" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white" alt="SQL" title="SQL" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" title="React" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git" height="22" style="margin:3px 4px" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" height="22" style="margin:3px 4px" />
 </p>
 
 ---
